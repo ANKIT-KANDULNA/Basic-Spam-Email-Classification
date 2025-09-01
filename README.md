@@ -1,8 +1,8 @@
 # 📧 Basic Spam Email Classification
  ## 📊 Dataset
  Source: Kaggle – Spam Mails Dataset(https://www.kaggle.com/datasets/venky73/spam-mails-dataset)
- Total samples: ~5,100 emails
- Labels: Ham (not spam) and Spam
+Total samples: ~5,100 emails
+Labels: Ham (not spam) and Spam
  
 ## ⚙️ Approach
 Preprocessing: Loaded dataset with pandas.
