@@ -28,8 +28,8 @@
 Optimized hyperparameters using GridSearchCV for better performance.
 
 ## 📈 Results
- Baseline (Default Scikit-Learn SVM)
+### Baseline (Default Scikit-Learn SVM)
 <img width="770" height="391" alt="image" src="https://github.com/user-attachments/assets/e2136a32-c517-4332-ac5f-828537231199" />
 
- Optimized (Grid Search Cross Validation)
+### Optimized (Grid Search Cross Validation)
 <img width="754" height="447" alt="image" src="https://github.com/user-attachments/assets/9f2df343-0352-4440-ba8d-21a96752f91b" />
