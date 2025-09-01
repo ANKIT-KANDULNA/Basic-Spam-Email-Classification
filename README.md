@@ -7,17 +7,20 @@
  Labels: Ham (not spam) and Spam
  
  ## ⚙️ Approach
- Preprocessing: 
+ ### Preprocessing: 
+ 
   Loaded dataset with pandas.
   
   Converted text into numerical features using CountVectorizer.
  
- Models used: 
+### Models used: 
+ 
   Support Vector Machine (SVM)
   
   Compared performance with Naive Bayes (MultinomialNB).
 
- Evaluation: 
+### Evaluation:
+ 
   Split data into 80% training / 20% testing.
   
   Reported accuracy scores.
